@@ -5,5 +5,3 @@ __pycache__/
 Pictures/*
 !Pictures/
 !Pictures/*.png
-*.py
-!Loan_Mortgage_Table.py
