@@ -2,5 +2,8 @@
 .ipynb_checkpoints/
 __pycache__/
 *.pdf
-Pictures/
+Pictures/*
+!Pictures/
+!Pictures/*.png
 *.py
+!Loan_Mortgage_Table.py
